@@ -114,17 +114,7 @@
             "m_Id": "6140a1c8bd5f4de5837142db89194ce4"
         }
     ],
-    "m_StickyNoteDatas": [
-        {
-            "m_Id": "657f7a75116c4acfb19c68cce14259b3"
-        },
-        {
-            "m_Id": "d1a53557a9d748e9a07202a6d411ca5b"
-        },
-        {
-            "m_Id": "474e637ad3a243d9a9a7f8a75a1eaa30"
-        }
-    ],
+    "m_StickyNoteDatas": [],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -422,8 +412,8 @@
     "m_ObjectId": "0af6f5a549244687a7d022a0354adf51",
     "m_Title": "Gradient",
     "m_Position": {
-        "x": -2614.0,
-        "y": 256.0
+        "x": -2511.19970703125,
+        "y": 272.00006103515627
     }
 }
 
@@ -490,8 +480,8 @@
     "m_ObjectId": "11d4cd244d4a4151a32d735051d13bc9",
     "m_Title": "Move",
     "m_Position": {
-        "x": -1967.200439453125,
-        "y": 259.9999694824219
+        "x": -1847.9998779296875,
+        "y": 268.00006103515627
     }
 }
 
@@ -658,10 +648,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1941.600341796875,
-            "y": 470.4000244140625,
+            "x": -1822.4000244140625,
+            "y": 478.3999328613281,
             "width": 124.0,
-            "height": 172.800048828125
+            "height": 172.80001831054688
         }
     },
     "m_Slots": [
@@ -915,10 +905,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 247.20004272460938,
-            "y": 490.4000549316406,
-            "width": 105.59991455078125,
-            "height": 33.599945068359378
+            "x": 223.20001220703126,
+            "y": 488.79998779296877,
+            "width": 104.79998779296875,
+            "height": 33.5999755859375
         }
     },
     "m_Slots": [
@@ -951,26 +941,6 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "474e637ad3a243d9a9a7f8a75a1eaa30",
-    "m_Title": "Dot Product",
-    "m_Content": "The dot product will give each vertex a color information depending on how parallel the position and direction vector are. It will be translated in a direction of the scan line.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -2420.0,
-        "y": 73.5999984741211,
-        "width": 200.0,
-        "height": 160.0
-    },
-    "m_Group": {
-        "m_Id": ""
-    }
 }
 
 {
@@ -1065,10 +1035,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -647.199951171875,
-            "y": 327.20001220703127,
-            "width": 208.00009155273438,
-            "height": 277.59991455078127
+            "x": -594.4000244140625,
+            "y": 330.3999938964844,
+            "width": 208.0,
+            "height": 277.6000061035156
         }
     },
     "m_Slots": [
@@ -1127,10 +1097,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2501.333251953125,
-            "y": 662.0,
-            "width": 126.00000762939453,
-            "height": 34.0
+            "x": -2397.599853515625,
+            "y": 679.199951171875,
+            "width": 124.800048828125,
+            "height": 33.5999755859375
         }
     },
     "m_Slots": [
@@ -1195,10 +1165,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2273.333251953125,
-            "y": 314.66668701171877,
-            "width": 208.0,
-            "height": 302.0
+            "x": -2169.599853515625,
+            "y": 332.0,
+            "width": 207.9998779296875,
+            "height": 301.59991455078127
         }
     },
     "m_Slots": [
@@ -1233,10 +1203,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1310.0001220703125,
-            "y": 583.3333740234375,
-            "width": 162.00001525878907,
-            "height": 34.0
+            "x": -1165.5999755859375,
+            "y": 490.4000244140625,
+            "width": 160.80010986328126,
+            "height": 33.5999755859375
         }
     },
     "m_Slots": [
@@ -1301,28 +1271,8 @@
     "m_ObjectId": "6140a1c8bd5f4de5837142db89194ce4",
     "m_Title": "Blend Color",
     "m_Position": {
-        "x": 221.5999755859375,
-        "y": 263.99993896484377
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "657f7a75116c4acfb19c68cce14259b3",
-    "m_Title": "Fraction",
-    "m_Content": "Fraction node creates a repetition pattern, this node will extract only the decimal part of a number that will create a repetion pattern",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -650.3999633789063,
-        "y": 76.80000305175781,
-        "width": 199.99996948242188,
-        "height": 166.40000915527345
-    },
-    "m_Group": {
-        "m_Id": ""
+        "x": 197.6001434326172,
+        "y": 262.3999938964844
     }
 }
 
@@ -1379,8 +1329,8 @@
     "m_ObjectId": "6ba2caea44894ddbb577bd09335ef60a",
     "m_Title": "Repeat",
     "m_Position": {
-        "x": -672.7999267578125,
-        "y": 267.20001220703127
+        "x": -620.0,
+        "y": 270.3999938964844
     }
 }
 
@@ -1396,10 +1346,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2588.666748046875,
-            "y": 314.66668701171877,
+            "x": -2485.599853515625,
+            "y": 332.0,
             "width": 208.0,
-            "height": 314.6666564941406
+            "height": 312.7999267578125
         }
     },
     "m_Slots": [
@@ -1414,7 +1364,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_Space": 2,
+    "m_Space": 0,
     "m_PositionSource": 0
 }
 
@@ -1870,10 +1820,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 377.6000061035156,
-            "y": 324.0,
-            "width": 207.99996948242188,
-            "height": 301.5999755859375
+            "x": 353.5999450683594,
+            "y": 322.3999938964844,
+            "width": 208.00009155273438,
+            "height": 301.5999450683594
         }
     },
     "m_Slots": [
@@ -1989,8 +1939,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1924.000244140625,
-            "y": 683.2000732421875,
+            "x": -1804.800048828125,
+            "y": 691.2000122070313,
             "width": 109.5999755859375,
             "height": 33.5999755859375
         }
@@ -2024,10 +1974,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1744.80029296875,
-            "y": 470.4000244140625,
-            "width": 125.5999755859375,
-            "height": 117.60003662109375
+            "x": -1625.60009765625,
+            "y": 478.3999328613281,
+            "width": 125.60009765625,
+            "height": 117.60000610351563
         }
     },
     "m_Slots": [
@@ -2143,10 +2093,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1569.6002197265625,
-            "y": 320.0,
-            "width": 207.9998779296875,
-            "height": 301.5999755859375
+            "x": -1450.400146484375,
+            "y": 328.0,
+            "width": 208.0001220703125,
+            "height": 301.59991455078127
         }
     },
     "m_Slots": [
@@ -2182,26 +2132,6 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "d1a53557a9d748e9a07202a6d411ca5b",
-    "m_Title": "Power",
-    "m_Content": "Power will create a contrast effect, powering a number will create a exponential function, translated in getting sooner to a definitive value (1 in this case)",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -192.0,
-        "y": 85.5999984741211,
-        "width": 208.8000030517578,
-        "height": 160.0
-    },
-    "m_Group": {
-        "m_Id": ""
-    }
 }
 
 {
@@ -2380,10 +2310,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1082.0,
-            "y": 315.3333740234375,
-            "width": 208.0,
-            "height": 302.0
+            "x": -946.3997802734375,
+            "y": 330.3999938964844,
+            "width": 207.9998779296875,
+            "height": 301.5999450683594
         }
     },
     "m_Slots": [
