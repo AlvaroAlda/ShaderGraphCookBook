@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2124114587340368832
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Scanline3DMaterial 2
-  m_Shader: {fileID: -6465566751694194690, guid: 4119fa54b409c744fa302c64f096702a, type: 3}
+  m_Name: ArrowPatternMaterial 2
+  m_Shader: {fileID: -6465566751694194690, guid: 662bf89235d15ff49a42ef1661c845c8, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 2
@@ -34,25 +47,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Interval: 4.78
-    - _Power: 3.9
+    - _ArrowsDensity: 0.4
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 0.5
+    - _RightScroll: 0
+    - _ScrollSpeed: 0.1
     m_Colors:
-    - _Color: {r: 0, g: 1, b: 0.90923214, a: 1}
-    - _Direction: {r: 1, g: 0, b: 0, a: 0}
+    - _ArrowColor1: {r: 1, g: 0.26837584, b: 0, a: 1}
+    - _ArrowColor2: {r: 0.5376235, g: 1, b: 0.47547168, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &7360767079972391499
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 5

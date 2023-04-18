@@ -34,7 +34,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Interval: 2.94
+    - _Interval: 0.59
     - _Power: 44.5
     - _QueueControl: 0
     - _QueueOffset: 0
