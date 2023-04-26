@@ -7,11 +7,11 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_IceRefraction
-  m_Shader: {fileID: -6465566751694194690, guid: 578eb6be82a0aa042ac5f76f6e92ff23, type: 3}
+  m_Name: BlackHoleMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: ecb795f74250e5348bce65b6b936bf3b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -20,8 +20,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _IceTexture:
-        m_Texture: {fileID: 2800000, guid: f8866c8819f21ad4d93025fe85ffec3c, type: 3}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 0ac55f9f886d827408c102bdf33c5ff7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -38,19 +38,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distorsion: 0.13
-    - _FresnelPower: 1.75
-    - _Metallic: 0
+    - _DistorsionWidth: 0.0001
+    - _NoiseScale: 4.38
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 1
-    - _TextureFade: 0
+    - _RotationAmount: 1.74
+    - _TwirlScale: 24.88
     m_Colors:
-    - _Color: {r: 0.6108935, g: 0.9056604, b: 0.8922024, a: 0.53333336}
-    - _FresnelColor: {r: 0.8632076, g: 1, b: 0.9973694, a: 1}
-    - _Tiling: {r: 2, g: 2, b: 0, a: 0}
+    - _Color: {r: 4.237095, g: 3.1722753, b: 0, a: 0}
+    - _DistorsionColor: {r: 0.9056604, g: 0.30543843, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &8673761935162476102
+--- !u!114 &5797262642087013386
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
