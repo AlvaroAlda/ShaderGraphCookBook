@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SnowBunnyMaterial
+  m_Name: SnowDeformMaterial
   m_Shader: {fileID: -6465566751694194690, guid: 8afa5d9c7ff4098499aed7dc36d487a2, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -54,12 +54,13 @@ Material:
     - _Amount: 0.05
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RimPower: 1.68
-    - _SnowAmount: 0.03
-    - _TransitionSpeed: 0.09
+    - _RimPower: 0.81
+    - _SnowAmount: 0.19
+    - _TransitionSpeed: -1.67
     m_Colors:
     - _Color: {r: 0.2264151, g: 0.2264151, b: 0.2264151, a: 0}
     - _RimColor: {r: 1.7207954, g: 1.7207954, b: 1.7207954, a: 0}
     - _SnowAngle: {r: -0.47, g: 1.72, b: 0.56, a: 0}
-    - _SnowColor: {r: 0.17254902, g: 0.9529412, b: 0.8352941, a: 1}
+    - _SnowColor: {r: 0.36311856, g: 0.9056604, b: 0.8238702, a: 1}
+    - _SnowDirection: {r: 0.33, g: 0.31, b: 0, a: 0}
   m_BuildTextureStacks: []
