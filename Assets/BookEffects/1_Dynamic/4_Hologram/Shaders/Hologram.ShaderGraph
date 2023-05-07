@@ -142,6 +142,9 @@
         },
         {
             "m_Id": "b6eb3bccde814694a44fe0be0d15cd0c"
+        },
+        {
+            "m_Id": "8378bc66b3f5432cbb4b34cba74fede4"
         }
     ],
     "m_StickyNoteDatas": [],
@@ -1106,7 +1109,7 @@
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
     "m_ObjectId": "24b1ee27d2355386b7177c78ca699486",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "8378bc66b3f5432cbb4b34cba74fede4"
     },
     "m_Name": "Multiply",
     "m_DrawState": {
@@ -1549,7 +1552,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "3e494aa4b181798fade1dc14b5fe6310",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "8378bc66b3f5432cbb4b34cba74fede4"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -1680,7 +1683,7 @@
     "m_Type": "UnityEditor.ShaderGraph.AddNode",
     "m_ObjectId": "40388d82a3d65d81b1ce8e74c37d3d1e",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "8378bc66b3f5432cbb4b34cba74fede4"
     },
     "m_Name": "Add",
     "m_DrawState": {
@@ -2552,6 +2555,17 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "8378bc66b3f5432cbb4b34cba74fede4",
+    "m_Title": "Color",
+    "m_Position": {
+        "x": 10.0,
+        "y": 10.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "8409101d41f3ec86b32e35ed1ee34939",
     "m_Id": 2,
@@ -2687,7 +2701,7 @@
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
     "m_ObjectId": "88c3532afca4e385a3a03e9f19875051",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "8378bc66b3f5432cbb4b34cba74fede4"
     },
     "m_Name": "Multiply",
     "m_DrawState": {
@@ -3291,7 +3305,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "b6eb3bccde814694a44fe0be0d15cd0c",
-    "m_Title": "Hollogram Effect",
+    "m_Title": "Hollogram Pattern",
     "m_Position": {
         "x": -2737.599853515625,
         "y": 795.9999389648438
