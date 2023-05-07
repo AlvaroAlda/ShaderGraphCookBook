@@ -39,13 +39,15 @@ Material:
     - _Float_1: -2
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Transition: -1.18
+    - _Transition: -0.33
     m_Colors:
-    - _BaseColor: {r: 0.31209052, g: 0.3773585, b: 0.22926308, a: 1}
+    - _BaseColor: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
     - _CollapseVertexDirection: {r: 0, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 4, g: 1.2862746, b: 0, a: 0.9372549}
     - _OriginPosition: {r: 3.5, g: 0.9, b: 0, a: 0}
+    - _SingulairityPosition: {r: 3.5, g: 0.9, b: 0, a: 0}
     - _Vector3: {r: 1, g: 1, b: 1, a: 0}
+    - _VertexGradientDirection: {r: 0, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1798240180829898123
 MonoBehaviour:
