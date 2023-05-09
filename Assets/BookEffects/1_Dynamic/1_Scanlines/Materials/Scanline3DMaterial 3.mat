@@ -35,7 +35,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Interval: 0.56
-    - _Power: 32.55
+    - _Power: 27.9
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: 1.21

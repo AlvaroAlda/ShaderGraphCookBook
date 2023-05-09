@@ -52,13 +52,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _GlitchStrength: 0
-    - _NoiseResolution: 61.94
+    - _NoiseResolution: 67.14
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ScrollSpeed: 0.07
-    - _TextureResolution: 30.8
+    - _TextureResolution: 2.79
     m_Colors:
-    - _Base_Color: {r: 0, g: 1, b: 0.2750852, a: 0.65882355}
-    - _FresnelColor: {r: 6.5882344, g: 0, b: 1.3176469, a: 0}
+    - _Base_Color: {r: 0.14887854, g: 0.73579204, b: 0.9622642, a: 0.65882355}
+    - _FresnelColor: {r: 8.048996, g: 2.931157, b: 1.6435121, a: 0}
     - _HologramTiling: {r: 1, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []

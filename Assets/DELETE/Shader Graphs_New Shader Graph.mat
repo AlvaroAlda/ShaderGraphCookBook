@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5902397116707734564
+--- !u!114 &-7877033885841500030
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,11 +20,11 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HologramMaterial 1
-  m_Shader: {fileID: -6465566751694194690, guid: 003a598c99a1c2b4783784a954099697, type: 3}
+  m_Name: Shader Graphs_New Shader Graph
+  m_Shader: {fileID: -6465566751694194690, guid: e9785483e2660a0469b4522958c5357f, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -33,10 +33,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _HologramTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -51,14 +47,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _GlitchStrength: 0
-    - _NoiseResolution: 48.4
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ScrollSpeed: -0.03
-    - _TextureResolution: 7.46
-    m_Colors:
-    - _Base_Color: {r: 0, g: 0.79921675, b: 1, a: 0.65882355}
-    - _FresnelColor: {r: 6.5882354, g: 3.458569, b: 0, a: 0}
-    - _HologramTiling: {r: 1, g: 3, b: 0, a: 0}
+    m_Colors: []
   m_BuildTextureStacks: []
