@@ -49,7 +49,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _LerpValue: 0.44
+    - _LerpValue: 0.181
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SELECTEDSHAPE: 0

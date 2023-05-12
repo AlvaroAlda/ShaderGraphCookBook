@@ -37,7 +37,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: 2.51
-    - _Strength: 0.1
+    - _Strength: 0.01
+    - _WaveAmount: 15.45
+    - _WaveAmplitude: 0.012
+    - _WaveSpeed: 3
     - _Waves: 4.28
     m_Colors: []
   m_BuildTextureStacks: []
