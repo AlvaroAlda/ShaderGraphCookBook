@@ -23,7 +23,7 @@ Material:
   m_Name: DissolveMaterial
   m_Shader: {fileID: -6465566751694194690, guid: 46b8c5e527d528749b6ec0c4be4398b1, type: 3}
   m_ValidKeywords:
-  - _ENUM_SIMPLENOISE
+  - _ENUM_GRADIENTNOISE
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _ENUM_B
@@ -57,10 +57,10 @@ Material:
     - _Cull: 2
     - _DissolveSpeed: 1
     - _DstBlend: 10
-    - _ENUM: 1
+    - _ENUM: 0
     - _EdgeWidth: 0.23
-    - _NoiseFill: 1.61
-    - _NoiseStrength: 10.8
+    - _NoiseFill: 1
+    - _NoiseStrength: 63.2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -71,6 +71,6 @@ Material:
     - _ZWrite: 1
     - _ZWriteControl: 1
     m_Colors:
-    - _DissolveDirection: {r: 1, g: 1, b: 0, a: 0}
+    - _DissolveDirection: {r: -0.78, g: 1, b: 0, a: 0}
     - _EdgeColor: {r: 1.537255, g: 4, b: 0, a: 1}
   m_BuildTextureStacks: []

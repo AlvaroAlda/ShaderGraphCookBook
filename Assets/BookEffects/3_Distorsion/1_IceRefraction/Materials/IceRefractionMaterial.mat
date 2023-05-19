@@ -38,16 +38,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distorsion: 0.11
-    - _FresnelPower: 6.11
+    - _Distorsion: 0.06
+    - _FresnelPower: 2.63
     - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 1
-    - _TextureFade: 0.11
+    - _TextureFade: 1.16
     m_Colors:
     - _Color: {r: 0.6108935, g: 0.9056604, b: 0.8922024, a: 0.53333336}
-    - _FresnelColor: {r: 0.8632076, g: 1, b: 0.9973694, a: 1}
+    - _FresnelColor: {r: 0.39218324, g: 1, b: 0.9826338, a: 1}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &8673761935162476102
