@@ -303,8 +303,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 376.5713195800781,
-            "y": -306.857177734375
+            "x": 376.0000305175781,
+            "y": -247.42868041992188
         },
         "m_Blocks": [
             {
@@ -320,8 +320,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 376.5713195800781,
-            "y": -42.285728454589847
+            "x": 376.0000305175781,
+            "y": -42.28586196899414
         },
         "m_Blocks": [
             {
@@ -684,10 +684,10 @@
     "m_Guid": {
         "m_GuidSerialized": "b9efb6d8-a7c1-4e79-99c0-61ec56da2d89"
     },
-    "m_Name": "TextureFade",
+    "m_Name": "TextureBlend",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "TextureFade",
-    "m_DefaultReferenceName": "_TextureFade",
+    "m_RefNameGeneratedByDisplayName": "TextureBlend",
+    "m_DefaultReferenceName": "_TextureBlend",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -711,10 +711,10 @@
     "m_Guid": {
         "m_GuidSerialized": "6b8019cc-3ec7-48b2-a86e-a7831f2eb077"
     },
-    "m_Name": "Distorsion",
+    "m_Name": "DistorsionAmount",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Distorsion",
-    "m_DefaultReferenceName": "_Distorsion",
+    "m_RefNameGeneratedByDisplayName": "DistorsionAmount",
+    "m_DefaultReferenceName": "_DistorsionAmount",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -723,8 +723,8 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.4000000059604645,
-    "m_FloatType": 1,
+    "m_Value": 0.23000000417232514,
+    "m_FloatType": 0,
     "m_RangeValues": {
         "x": -1.0,
         "y": 1.0
@@ -949,7 +949,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "66ad8a7c88644fb5b5ab0d5d1f532669",
     "m_Id": 0,
-    "m_DisplayName": "TextureFade",
+    "m_DisplayName": "TextureBlend",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1005,10 +1005,10 @@
     "m_Guid": {
         "m_GuidSerialized": "19f6615f-4254-4fc2-89c1-5943d850a95d"
     },
-    "m_Name": "Color",
+    "m_Name": "TextureColor",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Color",
-    "m_DefaultReferenceName": "_Color",
+    "m_RefNameGeneratedByDisplayName": "TextureColor",
+    "m_DefaultReferenceName": "_TextureColor",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1430,7 +1430,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "98064b4d08cd48aaa42a4b6be67f7bcd",
     "m_Id": 0,
-    "m_DisplayName": "Color",
+    "m_DisplayName": "TextureColor",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1911,7 +1911,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "c410f49ca35d4aff85f5f376619c2c30",
     "m_Id": 0,
-    "m_DisplayName": "Distorsion",
+    "m_DisplayName": "DistorsionAmount",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
