@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BlackHoleMaterial
+  m_Name: BlackHoleDistortionMaterial
   m_Shader: {fileID: -6465566751694194690, guid: ecb795f74250e5348bce65b6b936bf3b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -39,11 +39,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _DistorsionWidth: 0.0001
-    - _NoiseScale: 4.38
+    - _NoiseScale: 4
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RotationAmount: 1.74
-    - _TwirlScale: 24.88
+    - _RotationAmount: 1.75
+    - _TwirlScale: 25
     m_Colors:
     - _Color: {r: 4.237095, g: 3.1722753, b: 0, a: 0}
     - _DistorsionColor: {r: 0.9056604, g: 0.30543843, b: 0, a: 0}

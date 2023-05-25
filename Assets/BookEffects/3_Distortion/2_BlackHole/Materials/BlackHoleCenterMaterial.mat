@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SingularityMaterial
+  m_Name: BlackHoleCenterMaterial
   m_Shader: {fileID: -6465566751694194690, guid: 1ef43c8d2087fc247b06a35f3f53d6ce, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -47,7 +47,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FresnelPower: 3
+    - _FresnelPower: 8
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
