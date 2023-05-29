@@ -43,7 +43,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
     - _CollapseVertexDirection: {r: 0, g: 1, b: 0, a: 0}
-    - _EmissionColor: {r: 4, g: 1.2862746, b: 0, a: 0.9372549}
+    - _EmissionColor: {r: 4, g: 1.2862746, b: 0, a: 1}
     - _OriginPosition: {r: 3.5, g: 0.9, b: 0, a: 0}
     - _SingulairityPosition: {r: 0, g: 0, b: 0, a: 0}
     - _Vector3: {r: 1, g: 1, b: 1, a: 0}
