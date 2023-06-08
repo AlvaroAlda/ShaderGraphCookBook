@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Scanline3DMaterial 2
+  m_Name: ScanlineMaterial 2
   m_Shader: {fileID: -6465566751694194690, guid: 4119fa54b409c744fa302c64f096702a, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Scanline3DMaterial 3
+  m_Name: ScanlineMaterial 1
   m_Shader: {fileID: -6465566751694194690, guid: 4119fa54b409c744fa302c64f096702a, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -34,14 +34,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Interval: 0.56
-    - _Power: 27.9
+    - _Interval: 0.09
+    - _Power: 21.3
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 1.21
+    - _Speed: 0.04
     m_Colors:
-    - _Color: {r: 0.8207547, g: 0.034069028, b: 0.6788967, a: 1}
-    - _Direction: {r: 0, g: 0, b: -1, a: 0}
+    - _Color: {r: 0.22463512, g: 1, b: 0, a: 1}
+    - _Direction: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7360767079972391499
 MonoBehaviour:
