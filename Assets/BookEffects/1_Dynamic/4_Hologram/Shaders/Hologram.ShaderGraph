@@ -738,7 +738,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
-    "m_Value": 0.8999999761581421,
+    "m_Value": 0.9900000095367432,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -953,10 +953,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2517.60009765625,
-            "y": -291.199951171875,
-            "width": 123.999755859375,
-            "height": 172.7999267578125
+            "x": -2613.600341796875,
+            "y": -291.20001220703127,
+            "width": 124.0,
+            "height": 172.79998779296876
         }
     },
     "m_Slots": [
@@ -2263,10 +2263,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2324.80029296875,
-            "y": -291.199951171875,
+            "x": -2308.800048828125,
+            "y": -291.20001220703127,
             "width": 208.0,
-            "height": 325.59991455078127
+            "height": 325.6000061035156
         }
     },
     "m_Slots": [
@@ -2445,7 +2445,7 @@
     "m_ObjectId": "99afd9071fe943aa952c2bc411029984",
     "m_Title": "Blink",
     "m_Position": {
-        "x": -2543.199951171875,
+        "x": -2748.80029296875,
         "y": -351.20001220703127
     }
 }
@@ -2508,7 +2508,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Min",
     "m_StageCapability": 3,
-    "m_Value": 0.0,
+    "m_Value": -0.019999999552965165,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
