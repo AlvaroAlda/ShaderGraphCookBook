@@ -48,8 +48,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Depth: 0.3
+    - _DisplacementAmount: 0.78
+    - _DisplacementSpeed: 0.21
     - _Float: 2.48
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _RipplesDensity: 8.5
+    - _RipplesStretch: 4.5
+    m_Colors:
+    - _BaseWaterColor: {r: 0.07450979, g: 0.6784314, b: 0.7529412, a: 1}
+    - _RipplesColor: {r: 0.4896379, g: 0.9339623, b: 0.930898, a: 1}
   m_BuildTextureStacks: []
