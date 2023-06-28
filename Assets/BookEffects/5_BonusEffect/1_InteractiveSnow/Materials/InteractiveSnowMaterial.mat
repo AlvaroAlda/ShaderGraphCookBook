@@ -40,8 +40,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SnowAmount: 0.75
-    - _SnowDefinition: 28.09
+    - _SnowAmount: 0.15
+    - _SnowDefinition: 28
+    - _SnowResolution: 50
     m_Colors:
     - _HoleColor: {r: 0.10466357, g: 0.35420516, b: 0.3773585, a: 1}
     - _SnowColor: {r: 1, g: 1, b: 1, a: 1}
