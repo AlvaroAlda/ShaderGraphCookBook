@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController : MonoBehaviour
+public class MyCharacterController : MonoBehaviour
 {
-
     //The SerializeField Attribute will let you tweak
     //these variables from the Unity Editor
     [SerializeField] float speed = 5.0f;
